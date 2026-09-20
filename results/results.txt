@@ -1,0 +1,61 @@
+Guess: AAAA
+Bulls=0
+Cows=0
+
+Guess: CCCC
+Bulls=0
+Cows=0
+
+Guess: GGGG
+Bulls=1
+Cows=0
+
+Guess: GTTT
+Bulls=2
+Cows=2
+
+Guess: GTGT
+Bulls=1
+Cows=2
+
+Guess: GTTG
+Bulls=1
+Cows=2
+
+Guess: GGGT
+Bulls=2
+Cows=0
+
+Guess: GAAT
+Bulls=1
+Cows=1
+
+Guess: GGTT
+Bulls=3
+Cows=0
+
+Guess: GGAT
+Bulls=2
+Cows=0
+
+Guess: GCTT
+Bulls=2
+Cows=1
+
+Guess: GATT
+Bulls=2
+Cows=1
+
+Guess: GTAT
+Bulls=1
+Cows=2
+
+Guess: GGTT
+Bulls=3
+Cows=0
+
+Guess: TGTT
+Bulls=4
+Cows=0
+
+You guessed after 15 attempts
